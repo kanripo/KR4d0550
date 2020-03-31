@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 師山集
-#+DATE: 2020-03-31 11:36:00.917792
+#+DATE: 2020-03-31 11:36:01.041384
 #+PROPERTY: ID KR4d0550
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4d0550_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -37,7 +37,7 @@
 　　處士王君墓誌銘¶
 ¶
 　　王氏故為祁門宦族方其盛時宗親子屬聫名仕版二¶
-三十人其㝡顯者曰某官至江西提刑直寳謨閣往年¶
+三十人其最顯者曰某官至江西提刑直寳謨閣往年¶
 先大夫作尉祈門玉獲過王氏之居曰平里在縣南五¶
 <pb:KR4d0550_WYG_007-2b>¶
 十里其山川舒平地多沃壤繞屋植禾黍老者耕田種¶

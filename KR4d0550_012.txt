@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 師山集
-#+DATE: 2020-03-31 11:36:00.948482
+#+DATE: 2020-03-31 11:36:01.068987
 #+PROPERTY: ID KR4d0550
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 12
 <pb:KR4d0550_WYG_012-1a>¶
 　　欽定四庫全書¶
@@ -79,12 +79,12 @@
 　　銘¶
 ¶
 <pb:KR4d0550_WYG_012-4b>¶
-　　&KR1601;梳銘¶
+　　瘞梳銘¶
 ¶
 　　予一木梳用之甚久既壞不忍棄之乃為埋之後園¶
 ¶
 　　銘曰亂兮汝理執兮汝通寒暑十易兮出處汝同膚裂¶
-齒脱兮汝職之供啓土&KR1601;汝兮以慰我之衷¶
+齒脱兮汝職之供啓土瘞汝兮以慰我之衷¶
 ¶
 　　唐氏硯銘¶
 ¶
